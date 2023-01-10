@@ -74,7 +74,7 @@ endmodule
 ![TABLE2](https://user-images.githubusercontent.com/113497666/211579028-528b222a-5269-4206-afd2-cdac7a349ceb.png)
 
 ## RTL
-## Timing Diagram
+##Timing Diagram
 
 ![TIME1](https://user-images.githubusercontent.com/113497666/211579088-e7024113-fd96-45a5-8fe0-27365093cc71.png)
 
